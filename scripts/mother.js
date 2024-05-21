@@ -71,7 +71,7 @@ function initLoadDropdownGiftIdeas() {
 
     };
 
-    function DisplayItem() {
+     function DisplayItem() {
         //grab the giftlist
         const giftList = document.getElementById("giftIdeas");
 
